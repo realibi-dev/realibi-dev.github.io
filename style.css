@@ -2,6 +2,11 @@ body {
     background-color: cornflowerblue;
 }
 
+div {
+    background-color: coral;
+    padding: 40px;
+}
+
 h1 {
     color: white;
 }
